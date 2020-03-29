@@ -1,0 +1,22 @@
+@import url('https://fonts.googleapis.com/css?family=Lato:100,100i,300,300i,400,400i,600,600i,700,700i');
+
+:root {
+    /* colors */
+    --colorBlue: #3260A6;
+
+    /* fonts */
+    --fontSize : 16px;
+    --fontColor : #616161;
+    --fontFamily: 'Lato';
+}
+
+body{
+    font-family: "Lato";
+    color: #8D96A4;
+}
+
+
+.wrapper{
+    max-width: 1420px;
+    margin: 0 auto;
+}

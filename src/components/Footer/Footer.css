@@ -1,0 +1,15 @@
+footer{
+    margin-top: 10em;
+}
+
+.footer-logo, .footer-team{
+  display: inline-block;
+}
+
+.footer-team{
+    float: right;
+}
+
+.footer-team span{
+    color: var(--colorBlue);
+}
